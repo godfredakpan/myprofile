@@ -173,8 +173,17 @@ a:active {
       margin: 0 auto 20px auto;
   }
 
+  .mb-0{
+    font-size: 70px !important;
+  }
+
   .mb-5{
     color: white !important;
+    
+  }
+  .mb-51{
+    color: white !important;
+    word-spacing: 10PX;
   }
 
   section.resume-section {
