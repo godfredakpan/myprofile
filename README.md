@@ -1,4 +1,4 @@
 # myprofile
 
 
-visit <a href="www.godfredakpan.co.uk"> The profile here </a>
+visit <a href="http://godfredakpan.co.uk"> The profile here </a>
