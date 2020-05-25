@@ -435,7 +435,7 @@
                 <h2 class="  text-center">Awards</h2>
                 <div class="mb-5 heading-border"></div>
               </div>
-<<<<<<< HEAD:index.php
+
               <div class="award" id="award-box">
                   <div class="award">
                       <div class="award-icon"></div>
@@ -447,9 +447,6 @@
                           </p>
                       </div>
                   </div> 
-=======
-
->>>>>>> master:index.html
               <div class="main-award" id="award-box">
                   <div class="award">
                       <div class="award-icon"></div>
