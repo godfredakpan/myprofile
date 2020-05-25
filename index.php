@@ -74,7 +74,7 @@
               <div class="subheading mb-5 mb-51" style="margin-bottom: 5px !important;">THE NEXT BIG IDEA IS WAITING FOR ITS NEXT BIG CONSUMER
                  
               </div>
-              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. <a href="https://docs.google.com/document/d/1L5VdUVR1zbvH0cCIUB1bubK4tNVO0NXOv886jVRqO6w/edit?usp=sharing" target="_blank">
+              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews.<br> <a href="https://docs.google.com/document/d/1L5VdUVR1zbvH0cCIUB1bubK4tNVO0NXOv886jVRqO6w/edit?usp=sharing" target="_blank">
                 
                 <p class="text-primary">Download Resume </p></p>
               
