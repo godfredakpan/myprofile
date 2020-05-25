@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,8 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+
     <link rel="shortcut icon" href="img/favicon.ico">
     <title>Godfred Akpan</title>
+
     <!-- Global stylesheets -->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -20,6 +23,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 </head>
+
 <body id="page-top">
     
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
@@ -55,7 +59,9 @@
             </ul>
         </div>
     </nav>
+
     <div class="container-fluid p-0">
+
     <!--====================================================
                         ABOUT  GODFRED AKPAN 
     ======================================================-->
@@ -68,7 +74,10 @@
               <div class="subheading mb-5 mb-51" style="margin-bottom: 5px !important;">THE NEXT BIG IDEA IS WAITING FOR ITS NEXT BIG CONSUMER
                  
               </div>
-              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. <a href="https://docs.google.com/document/d/1L5VdUVR1zbvH0cCIUB1bubK4tNVO0NXOv886jVRqO6w/edit?usp=sharing" target="_blank">
+                
+                <p class="text-primary">Download Resume </p></p>
+              
               <ul class="list-inline list-social-icons mb-0" >
                   <li class="list-inline-item">
                       <a href="https://web.facebook.com/godfred.akpan.14" target="_blank">
@@ -102,10 +111,16 @@
                   </span>
                 </a>
                   </li>
+
+                  <li>
+                      
+                </a>
+                  </li>
               </ul>
           </div>
         </div>
       </section>
+
     <!--====================================================
              GODFRED AKPAN'S  EXPERIENCE
     ======================================================-->      
@@ -159,6 +174,8 @@
                       <p>Developer at PureWeb</p>
                       <img src="http://www.purewebng.com/images/pureweb-technologies.png" width="100%">
                   </div>
+
+
                   <div class="resume-date text-md-right">
                       <!-- <span class="text-primary">December 2018 - March 2019</span> -->
                   </div>
@@ -188,6 +205,7 @@
                   </div>
                 </div>  
               </div>
+
                <div class="resume-item col-md-6 col-sm-12">
                 <div class="card mx-0 p-4 mb-5" style="border-color: #2196f3; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
                   <div class="resume-content mr-auto">
@@ -239,6 +257,7 @@
               </div>
           </div>
       </section>
+
     <!--====================================================
                   GODFRED AKPAN'S PORTFOLIO
     ======================================================-->      
@@ -350,6 +369,7 @@
               </div> 
           </div>
       </section>
+
     <!--====================================================
                         SKILLS
     ======================================================-->       
@@ -416,6 +436,7 @@
                       <p>JQuery</p>
                   </div>
               </div>
+
               <div class="col-md-3 col-sm-6">
                   <div class="skill-item">
                       <img src="http://php.net/images/logos/new-php-logo.svg" width="65%">
@@ -426,6 +447,7 @@
           </div>
          </div> 
       </section>
+
     <!--====================================================
                            AWARDS
     ======================================================-->       
@@ -436,7 +458,6 @@
                 <div class="mb-5 heading-border"></div>
               </div>
 
-         
               <div class="main-award" id="award-box">
                   <div class="award">
                       <div class="award-icon"></div>
@@ -468,9 +489,11 @@
                           </p>
                       </div>
                   </div>
+
               </div>
           </div>
       </section> 
+
     <!--====================================================
                           CONTACT
     ======================================================-->       
@@ -523,6 +546,7 @@
             </div> 
           </div>
       </section>
+
       <section class=" d-flex flex-column" id="maps">
         <div id="map">
           <div class="map-responsive">
@@ -530,7 +554,10 @@
           </div>
         </div>
       </section>
+
+
     </div>
+
 <!--====================================================
                     PORTFOLIO MODALS
 ======================================================-->
@@ -1043,6 +1070,8 @@
             </div>
         </div>
     </div>    
+
+
     <!-- Global javascript -->
     <script src="js/jquery/jquery.min.js"></script>
     <script src='js/part.js'></script>
@@ -1054,6 +1083,7 @@
     <script src="js/custom.js"></script>
     <script>
         $(document).ready(function(){
+
         $(".filter-b").click(function(){
             var value = $(this).attr('data-filter');
             if(value == "all")
@@ -1072,13 +1102,16 @@
         }
         $(this).addClass("active");
         });
+
         // SKILLS
         $(function () {
             $('.counter').counterUp({
                 delay: 10,
                 time: 2000
             });
+
         });
     </script> 
 </body>
+
 </html>
