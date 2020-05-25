@@ -38,6 +38,9 @@ h2 {
 a {
     color: #2196f3;
 }
+p{
+    color: #2196f3;
+}
 
 a:hover,
 a:focus,
@@ -173,9 +176,22 @@ a:active {
       margin: 0 auto 20px auto;
   }
 
+  .mb-0{
+    font-size: 70px !important;
+  }
+
+  .mb-5{
+    color: white !important;
+    
+  }
+  .mb-51{
+    color: white !important;
+    word-spacing: 10PX;
+  }
+
   section.resume-section {
       border-bottom: 1px solid #dee2e6;
-      padding-top: 5rem !important;
+      padding-top: 2rem !important;
       padding-bottom: 5rem !important;
   }
 
@@ -211,7 +227,8 @@ a:active {
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(../img/profile-banner.jpg); 
+      background-image: url(); 
+      background-color: #00356B !important;
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
