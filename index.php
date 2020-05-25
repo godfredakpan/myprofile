@@ -436,17 +436,7 @@
                 <div class="mb-5 heading-border"></div>
               </div>
 
-              <div class="award" id="award-box">
-                  <div class="award">
-                      <div class="award-icon"></div>
-                      <div class="award-content">
-                          <span class="date">April 2015</span>
-                          <h5 class="title">Google Website Certified Developer</h5>
-                          <p class="description">
-                            Certified Google Website Developer
-                          </p>
-                      </div>
-                  </div> 
+         
               <div class="main-award" id="award-box">
                   <div class="award">
                       <div class="award-icon"></div>
