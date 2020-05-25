@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <link rel="shortcut icon" href="img/favicon.ico">
     <title>Godfred Akpan</title>
-
     <!-- Global stylesheets -->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -19,18 +16,14 @@
     <link href="css/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="css/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/particles.css">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 </head>
-
 <body id="page-top">
     
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none  mx-0 px-0"><img src="img/logo-white.png" alt="" class="img-fluid"></span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/Godfred.jpg" alt="">
         </span>
       </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -59,23 +52,21 @@
             </ul>
         </div>
     </nav>
-
     <div class="container-fluid p-0">
-
     <!--====================================================
-                        ABOUT  GODFRED AKPAN 
+                        ABOUT
     ======================================================-->
-      <section class="resume-section p-3 p-lg-12 d-flex d-column" id="about">
-         <div class="my-auto" id="particles-js">
-            <div id="particles-js">
-              <h1 class="mb-0" style="color: white !important;">Godfred
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+          <div class="my-auto" >
+              <img src="img/logo-s.png" class="img-fluid mb-3" alt="">
+              <h1 class="mb-0">Godfred
                 <span class="text-primary">Akpan</span>
               </h1>
-              <div class="subheading mb-5 mb-51" style="margin-bottom: 5px !important;">THE NEXT BIG IDEA IS WAITING FOR ITS NEXT BIG CONSUMER
+              <div class="subheading mb-5">THE NEXT BIG IDEA IS WAITING FOR ITS NEXT BIG CHANGER WITH 
                  
               </div>
-              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
-              <ul class="list-inline list-social-icons mb-0" >
+              <p class="mb-5" style="max-width: 500px;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+              <ul class="list-inline list-social-icons mb-0">
                   <li class="list-inline-item">
                       <a href="https://web.facebook.com/godfred.akpan.14" target="_blank">
                   <span class="fa-stack fa-lg">
@@ -110,11 +101,9 @@
                   </li>
               </ul>
           </div>
-        </div>
       </section>
-
     <!--====================================================
-             GODFRED AKPAN'S  EXPERIENCE
+                        EXPERIENCE
     ======================================================-->      
       <section class="resume-section p-3 p-lg-5 " id="experience">
           <div class="row my-auto">
@@ -141,8 +130,6 @@
                       <p>Developer at PureWeb</p>
                       <img src="http://www.purewebng.com/images/pureweb-technologies.png" width="100%">
                   </div>
-
-
                   <div class="resume-date text-md-right">
                       <!-- <span class="text-primary">December 2018 - March 2019</span> -->
                   </div>
@@ -172,7 +159,6 @@
                   </div>
                 </div>  
               </div>
-
                <div class="resume-item col-md-6 col-sm-12">
                 <div class="card mx-0 p-4 mb-5" style="border-color: #2196f3; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
                   <div class="resume-content mr-auto">
@@ -224,9 +210,8 @@
               </div>
           </div>
       </section>
-
     <!--====================================================
-                  GODFRED AKPAN'S PORTFOLIO
+                        PORTFOLIO
     ======================================================-->      
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="portfolio"> 
           <div class="row my-auto">
@@ -236,10 +221,10 @@
               </div>
               <div class="col-md-12">
                 <div class="port-head-cont">
-                  <button class="btn btn-general btn-green filter-b" data-filter="all">Development</button>
-                 <!--  <button class="btn btn-general btn-green filter-b" data-filter="consulting">Web Design</button>
+                  <button class="btn btn-general btn-green filter-b" data-filter="all">All</button>
+                  <button class="btn btn-general btn-green filter-b" data-filter="consulting">Web Design</button>
                   <button class="btn btn-general btn-green filter-b" data-filter="finance">Mobile Apps</button>
-                  <button class="btn btn-general btn-green filter-b" data-filter="marketing">Graphics Design</button>  -->
+                  <button class="btn btn-general btn-green filter-b" data-filter="marketing">Graphics Design</button> 
                 </div>
               </div>
           </div>.
@@ -251,7 +236,7 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/dealinwhite.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-1.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter marketing">
@@ -261,7 +246,7 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/dealinblack.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-2.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter consulting">
@@ -271,7 +256,7 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/hepiqcnurse.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-3.jpg" alt="">
                   </a>
               </div>              
               <div class="col-sm-4 portfolio-item filter consulting">
@@ -281,7 +266,7 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/shuk.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-4.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter consulting">
@@ -291,7 +276,7 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/ubee.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-5.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter finance">
@@ -301,42 +286,41 @@
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/milo.png" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-1.jpg" alt="">
                   </a>
               </div>              
               <div class="col-sm-4 portfolio-item filter marketing">
-                  <a class="portfolio-link" href="#portfolioModal20" data-toggle="modal">
+                  <a class="portfolio-link" href="#portfolioModal1" data-toggle="modal">
                       <div class="caption-port">
                           <div class="caption-port-content">
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/nescafe.png" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-1.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter marketing">
-                  <a class="portfolio-link" href="#" data-toggle="modal">
+                  <a class="portfolio-link" href="#portfolioModal2" data-toggle="modal">
                       <div class="caption-port">
                           <div class="caption-port-content">
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/moove.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-2.jpg" alt="">
                   </a>
               </div>
               <div class="col-sm-4 portfolio-item filter finance">
-                  <a class="portfolio-link" href="#" data-toggle="modal">
+                  <a class="portfolio-link" href="#portfolioModal3" data-toggle="modal">
                       <div class="caption-port">
                           <div class="caption-port-content">
                               <i class="fa fa-search-plus fa-3x"></i>
                           </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/bellgold.jpg" alt="">
+                      <img class="img-fluid" src="img/portfolio/p-3.jpg" alt="">
                   </a>
               </div> 
           </div>
       </section>
-
     <!--====================================================
                         SKILLS
     ======================================================-->       
@@ -347,7 +331,7 @@
               <div class="col-md-3 col-sm-6">
                   <div class="skill-item">
                       <img src="http://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="40%">
-                      <h2><span class="counter"> 100 </span><span>%</span></h2>
+                      <h2><span class="counter"> 84 </span><span>%</span></h2>
                       <p>HTML5</p>
                   </div>
               </div>
@@ -365,16 +349,6 @@
                       <p>React JS</p>
                   </div>
               </div>
-
-              <div class="col-md-3 col-sm-6">
-                  <div class="skill-item">
-                      <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="50%">
-                      <h2><span class="counter"> 98 </span><span>%</span></h2>
-                      <p>Python</p>
-                  </div>
-              </div>
-
-
                <div class="col-md-3 col-sm-6">
                   <div class="skill-item">
                       <img src="http://www.stickpng.com/assets/images/5847ea22cef1014c0b5e4833.png" width="35%">
@@ -403,7 +377,6 @@
                       <p>JQuery</p>
                   </div>
               </div>
-
               <div class="col-md-3 col-sm-6">
                   <div class="skill-item">
                       <img src="http://php.net/images/logos/new-php-logo.svg" width="65%">
@@ -414,7 +387,6 @@
           </div>
          </div> 
       </section>
-
     <!--====================================================
                            AWARDS
     ======================================================-->       
@@ -424,7 +396,17 @@
                 <h2 class="  text-center">Awards</h2>
                 <div class="mb-5 heading-border"></div>
               </div>
-
+              <div class="award" id="award-box">
+                  <div class="award">
+                      <div class="award-icon"></div>
+                      <div class="award-content">
+                          <span class="date">April 2015</span>
+                          <h5 class="title">Google Website Certified Developer</h5>
+                          <p class="description">
+                            Certified Google Website Developer
+                          </p>
+                      </div>
+                  </div> 
               <div class="main-award" id="award-box">
                   <div class="award">
                       <div class="award-icon"></div>
@@ -456,11 +438,9 @@
                           </p>
                       </div>
                   </div>
-
               </div>
           </div>
       </section> 
-
     <!--====================================================
                           CONTACT
     ======================================================-->       
@@ -468,9 +448,9 @@
           <div class="row my-auto" id="contact"> 
             <div class="col-md-8">
               <div class="contact-cont">
-                <h3>Contact Godfred</h3>
+                <h3>CONTACT Us</h3>
                 <div class="heading-border-light"></div>
-                <p>Hello iam ready for hire, kindly reach out to me!!</p>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here.</p>
               </div>   
               <div class="row con-form">
                 <div class="col-md-12">
@@ -513,7 +493,6 @@
             </div> 
           </div>
       </section>
-
       <section class=" d-flex flex-column" id="maps">
         <div id="map">
           <div class="map-responsive">
@@ -521,10 +500,7 @@
           </div>
         </div>
       </section>
-
-
     </div>
-
 <!--====================================================
                     PORTFOLIO MODALS
 ======================================================-->
@@ -694,19 +670,20 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center">Dealin.io</h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/dealinwhite.jpg" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-4.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                                <p>Loyalty and Rewards platform, built with EOS blockchain. Businesses reward customers with token and customer redeem tokens from Businesses</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
-                                        <strong>ShareQube</a>
+                                        <strong>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
@@ -716,7 +693,7 @@
                                     </li>
                                     <li>Service:
                                         <strong>
-                                          <a href="#">Web Application Development(blockchain)</a>
+                                          <a href="#">Web Development</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -744,19 +721,20 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center">Dealin.io</h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/dealinwhite.jpg" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-5.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                                <p>Loyalty and Rewards platform, built with EOS blockchain. Businesses reward customers with token and customer redeem tokens from Businesses</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
-                                        <strong>ShareQube</a>
+                                        <strong>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
@@ -766,7 +744,7 @@
                                     </li>
                                     <li>Service:
                                         <strong>
-                                          <a href="#">Web Application Development(blockchain)</a>
+                                          <a href="#">Web Development</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -794,25 +772,25 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center">HEPIQC.COM</h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/hepiqcnurse.jpg" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-6.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                                <p>HEPIQ-C is a project under the Federal Ministry of Health which is responsible for providing a healthy ageing environment through the establishment and implementation of a comprehensive health service for the elderly which encompassess care, research and training at all levels of Government.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
                                         <strong>
-                                          <a href="#">Otrac</a>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
                                         <strong>
-                                          <a href="#">Febraury 2017</a>
+                                          <a href="#">April 2018</a>
                                         </strong>
                                     </li>
                                     <li>Service:
@@ -845,82 +823,30 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center"></h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/shuk.jpg" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-7.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                                <!-- <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p> -->
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
                                         <strong>
-                                          <a href="#">Otrac</a>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
                                         <strong>
-                                          <a href="#">April 2017</a>
+                                          <a href="#">April 2018</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                           <a href="#">Web Development</a>
-                                        </strong>
-                                    </li>
-                                </ul>
-                                <button class="btn btn-general btn-white" type="button" data-dismiss="modal">
-                                    <i class="fa fa-times"></i> Close
-                                </button>
-                            </div>
-                          </div>
-                        </div>
-                </div>
-            </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="portfolio-modal modal fade" id="portfolioModal20" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                <div class="row">
-                        <div class="modal-body">
-                            <div class="title-bar">
-                              <div class="col-md-12">
-                                <h2 class="text-center">NESCAFE</h2>
-                                <div class="heading-border"></div>
-                              </div>
-                            </div>
-                            <div class="row">
-                              <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/nescafe.png" alt="">
-                              </div>
-                              <div class="col-md-6">
-                                <p>Nscafe promo game</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client:
-                                        <strong>
-                                          <a href="#">Nescafe</a>
-                                        </strong>
-                                    </li>
-                                    <li>Date:
-                                        <strong>
-                                          <a href="#">June 2019</a>
-                                        </strong>
-                                    </li>
-                                    <li>Service:
-                                        <strong>
-                                          <a href="#">Web Application Development</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -948,25 +874,25 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center">UBEECARES.COM</h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/ubee.jpg" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-8.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                                <p>Gain rewards and benefits from hardwork</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
                                         <strong>
-                                          <a href="#">Ubeecares</a>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
                                         <strong>
-                                          <a href="#">October 2018</a>
+                                          <a href="#">April 2018</a>
                                         </strong>
                                     </li>
                                     <li>Service:
@@ -999,30 +925,30 @@
                         <div class="modal-body">
                             <div class="title-bar">
                               <div class="col-md-12">
-                                <h2 class="text-center"></h2>
+                                <h2 class="text-center">Our Project</h2>
                                 <div class="heading-border"></div>
                               </div>
                             </div>
                             <div class="row">
                               <div class="col-md-6">
-                                <img class="img-fluid img-centered" src="img/portfolio/milo.png" alt="">
+                                <img class="img-fluid img-centered" src="img/portfolio/p-9.jpg" alt="">
                               </div>
                               <div class="col-md-6">
-                              <!--   <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p> -->
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
                                 <ul class="list-inline item-details">
                                     <li>Client:
                                         <strong>
-                                          <a href="#">MILO</a>
+                                          <a href="#">Techs Soft</a>
                                         </strong>
                                     </li>
                                     <li>Date:
                                         <strong>
-                                          <a href="#">2018</a>
+                                          <a href="#">April 2018</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
-                                          <a href="#">Web Application Development (Trivia)</a>
+                                          <a href="#">Web Development</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -1037,12 +963,8 @@
             </div>
         </div>
     </div>    
-
-
     <!-- Global javascript -->
     <script src="js/jquery/jquery.min.js"></script>
-    <script src='js/part.js'></script>
-    <script  src="js/index.js"></script>
     <script src="js/bootstrap/bootstrap.bundle.min.js"></script>
     <script src="js/jquery-easing/jquery.easing.min.js"></script>
     <script src="js/counter/jquery.waypoints.min.js"></script>
@@ -1050,7 +972,6 @@
     <script src="js/custom.js"></script>
     <script>
         $(document).ready(function(){
-
         $(".filter-b").click(function(){
             var value = $(this).attr('data-filter');
             if(value == "all")
@@ -1069,16 +990,13 @@
         }
         $(this).addClass("active");
         });
-
         // SKILLS
         $(function () {
             $('.counter').counterUp({
                 delay: 10,
                 time: 2000
             });
-
         });
     </script> 
 </body>
-
 </html>
