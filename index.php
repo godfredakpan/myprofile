@@ -71,10 +71,10 @@
               <h1 class="mb-0" style="color: white !important;">Godfred
                 <span class="text-primary">Akpan</span>
               </h1>
-              <div class="subheading mb-5 mb-51" style="margin-bottom: 5px !important;">THE NEXT BIG IDEA IS WAITING FOR ITS NEXT BIG CONSUMER
+              <div class="subheading mb-5 mb-51" style="margin-bottom: 5px !important;">Senior Software Engineer
                  
               </div>
-              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews.<br> <a href="https://docs.google.com/document/d/1L5VdUVR1zbvH0cCIUB1bubK4tNVO0NXOv886jVRqO6w/edit?usp=sharing" target="_blank">
+              <p class="mb-5" style="max-width: 500px; margin-bottom: 0px !important;" >Results-driven software engineer with over 8 years of experience in programming, strategic problem-solving and digital automation. Experienced in building large products to achieve human needs and streamline business management..<br> <a href="https://drive.google.com/file/d/1OsucsR1slHZ6iQF8gU4xKDGKu2F5TYBL/view?usp=sharing" target="_blank">
                 
                 <p class="text-primary">Download Resume </p></p>
               
@@ -96,7 +96,7 @@
                 </a>
                   </li>
                   <li class="list-inline-item">
-                      <a href="https://www.linkedin.com/in/godfred-akpan-8847b6149/" target="_blank">
+                      <a href="https://www.linkedin.com/in/godfredakpan/" target="_blank">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
                     <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
